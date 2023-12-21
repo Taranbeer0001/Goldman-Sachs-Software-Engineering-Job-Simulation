@@ -21,7 +21,10 @@ What would you change in the password policy to make breaking the passwords hard
 
 1. Cryptography Basics
 2. Password cracking tools
-3. Password best practise
+3. Password best practice
 4. Password strength checker 
 5. Password salting
-6. Hash functions 
+6. Hash functions
+
+# Reference 
+https://www.theforage.com/virtual-experience/NPdeQ43o8P9HJmJzg/goldman-sachs/goldman-sachs-virtual-experience-program/crack-leaked-password-database

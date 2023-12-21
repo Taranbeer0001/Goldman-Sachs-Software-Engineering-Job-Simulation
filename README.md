@@ -20,5 +20,8 @@ What would you change in the password policy to make breaking the passwords hard
 # The practical skills I gained from this certification:
 
 1. Cryptography Basics
-2. Password Cracking
-3. Password Best Practise
+2. Password cracking tools
+3. Password best practise
+4. Password strength checker 
+5. Password salting
+6. Hash functions 
